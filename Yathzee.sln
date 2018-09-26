@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yathzee", "Yathzee\Yathzee.csproj", "{04DC4C94-6F7A-4259-936E-5842F7D41BE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yathzee.Tests", "Yathzee.Tests\Yathzee.Tests.csproj", "{ADA99D21-92E0-4671-8F1A-133E772A0E66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04DC4C94-6F7A-4259-936E-5842F7D41BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DC4C94-6F7A-4259-936E-5842F7D41BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DC4C94-6F7A-4259-936E-5842F7D41BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DC4C94-6F7A-4259-936E-5842F7D41BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA99D21-92E0-4671-8F1A-133E772A0E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA99D21-92E0-4671-8F1A-133E772A0E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA99D21-92E0-4671-8F1A-133E772A0E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA99D21-92E0-4671-8F1A-133E772A0E66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5BFACC4-628E-441C-85FE-DA23F0D680C4}
+	EndGlobalSection
+EndGlobal
